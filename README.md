@@ -108,3 +108,55 @@ Dashboard Development
 Insights
      ↓
 Business Recommendations
+```
+
+## 📊 Dashboard
+
+The dashboard analyzes:
+
+- Patient Satisfaction
+- Waiting Experience
+- Registration Delays
+- Staff Availability
+- Crowd Issues
+- Appointment System
+- Digital Queue Support
+- Age & Gender Segmentation
+
+
+## 🔍 Key Insights
+
+- To be updated after completing the analysis.
+
+## 💡 Recommendations
+
+- To be updated based on the final findings.
+
+## ⚠️ Limitations
+- Limited to 82 responses
+- Survey-based data
+- Actual waiting time in minutes cannot be calculated
+- Results may not represent the entire hospital population
+
+
+## 📁 Project Structure
+
+Hospital-Patient-Waiting-Time-and-Operational-Analysis/
+│
+│
+├── data/
+│
+├── powerbi/
+│
+├── screenshots/
+│
+├── documentation/
+│
+├── .gitignore
+│
+└── README.md
+
+
+## 👤 Author
+
+Yogesh Patil
