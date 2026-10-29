@@ -139,24 +139,6 @@ The dashboard analyzes:
 - Results may not represent the entire hospital population
 
 
-## 📁 Project Structure
-
-Hospital-Patient-Waiting-Time-and-Operational-Analysis/
-│
-│
-├── data/
-│
-├── powerbi/
-│
-├── screenshots/
-│
-├── documentation/
-│
-├── .gitignore
-│
-└── README.md
-
-
 ## 👤 Author
 
 Yogesh Patil
